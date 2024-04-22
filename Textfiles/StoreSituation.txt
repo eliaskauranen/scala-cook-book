@@ -1,0 +1,98 @@
+aleppo pepper flakes;0.0;grams
+apple cider vinegar;0.0;deciliters
+apple;2.0;piece
+baby spinach;0.0;grams
+baking powder;0.0;grams
+balsamic vinegar;0.0;deciliters
+basil;0.0;grams
+bay leaf;0.0;piece
+black beans;0.0;deciliters
+black pepper;0.0;grams
+blueberries;0.0;deciliters
+bunch cilantro;0.0;grams
+butter;0.0;grams
+buttermilk;0.0;grams
+cabbage;0.0;piece
+canola oil;0.0;deciliters
+carrot;0.0;piece
+carrots;0.0;piece
+chili powder;0.0;grams
+chopped fresh dill;0.0;deciliters
+chopped fresh parsley;0.0;deciliters
+cilantro;0.0;grams
+clove garlic;0.0;piece
+cloves garlic;0.0;piece
+coleslaw;0.0;grams
+coriander;0.0;grams
+corn tortillas;0.0;piece
+corned beef;0.0;grams
+creamy vegan cashew sauce;0.0;deciliters
+cremini mushrooms;0.0;grams
+crushed tomatoes;0.0;grams
+cumin;0.0;grams
+diced tomatoes;0.0;grams
+dijon mustard;0.0;deciliters
+dried mushrooms;0.0;grams
+dried thyme;0.0;grams
+eggs;0.0;piece
+extra virgin olive oil;0.0;deciliters
+feta cheese;0.0;grams
+flour;0.0;grams
+fresh ginger;0.0;grams
+fresh mushrooms;0.0;grams
+frozen chopped spinach;0.0;grams
+garlic powder;0.0;grams
+green onions;0.0;grams
+ground turmeric;0.0;deciliters
+jalapeno;0.0;piece
+large onion;0.0;piece
+lasagna noodles;0.0;grams
+lemon juice;0.0;deciliters
+lemon;0.0;piece
+lime;0.0;piece
+mayonnaise;0.0;deciliters
+milk;0.0;deciliters
+olive oil;0.0;deciliters
+onion;0.0;piece
+onions;0.0;grams
+pearl barley;0.0;deciliters
+pecorino cheese;0.0;grams
+pinch cayenne pepper;0.0;grams
+pitted olives;0.0;deciliters
+plain yogurt;0.0;deciliters
+potato;0.0;piece
+potatoes;0.0;piece
+raw cashews;0.0;grams
+red bell pepper;0.0;grams
+red chili powder;0.0;grams
+red pepper flakes;0.0;grams
+rice;0.0;deciliters
+ricotta cheese;0.0;grams
+roasted unsalted whole almonds;0.0;grams
+roasted, salted pepitas;0.0;grams
+salt;0.0;grams
+shiitake mushrooms;0.0;grams
+shredded mozzarella cheese;0.0;grams
+slices bacon;0.0;piece
+smoked paprika;0.0;deciliters
+sour cream;0.0;deciliters
+soy sauce;0.0;deciliters
+stalk celery;0.0;piece
+stalks broccoli;0.0;piece
+stalks celery;0.0;piece
+stick cinnamon;0.0;grams
+sugar;0.0;grams
+sweet potatoes;0.0;grams
+tomato paste;0.0;grams
+tomato sauce;0.0;deciliters
+tomatoes;0.0;grams
+tortillas;0.0;piece
+turmeric;0.0;deciliters
+vegan sour cream;0.0;deciliters
+vegetable stock;0.0;deciliters
+water;1.0E16;deciliters
+wine vinegar;0.0;deciliters
+yellow bell pepper;0.0;grams
+yellow mustard;0.0;deciliters
+yellow onion;0.0;piece
+yellow split peas;0.0;grams

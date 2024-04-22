@@ -1,0 +1,24 @@
+aleppo pepper;0.41
+baking powder;0.97
+basil;0.1
+butter;0.9
+cinnamon;0.53
+cumin;0.41
+curry;0.43
+chili powder;0.54
+cilantro;1.04
+coriander;1.04
+corned beef;1.0
+flour;0.593
+garlic powder;0.66
+ginger;0.41
+nutmeg;0.47
+onions;0.95
+oregano;0.2
+paprika powder;0.46
+pepper;0.47
+raw cashews;0.51
+rosemary;0.11
+salt;2.17
+thyme;0.16
+sugar;0.85

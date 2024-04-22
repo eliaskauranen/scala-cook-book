@@ -1,0 +1,39 @@
+First versions of classes Ingredient, Recipe, Store and User.
+Adding object RecipeReader to read text files.
+Adding an example recipe text file "BlueberryMuffins.txt" to test the reader object.
+Adding testing object to do so.
+First version of class CookBook contains search method to search recipes.
+Creating method addRecipe in class CookBook which adds a new recipe read of a text file.
+Three new recipe text files added for more testing.
+Turned out that method addRecipe didn't work as expected. Fixed the errors.
+Also created an unitconverter object to convert all teaspoons, pounds and so to desiliters or grams.
+New recipes.
+
+First version of object Diet and updating method search in class CookBook.
+New recipes and changes in class CookBook. New method readIngredients (a helper method for method addRecipe) to make testing easier.
+New testing object. A lot of testing. Little changes in class CookBook. New class Settings below class User.
+Changes in class CookBook, more testing and one new method, sort, in class Settings.
+Still a lot of work to do.
+
+Now we have an user interface. The user is able to search and look at recipes and to have a look at the store situation.
+The user can update the store situation and select diets and also list ingredients (for example allergens) to be avoided in the settings.
+The user can select how many servings he wants to cook. The searching method is adapted to that.
+There was a problem with upper and lower case letters. For example if "dinner" was searched the outcome failed because the categories are written the first letter in upper case.
+Now it doesn't matter whether the user writes the first letter or the entire word in upper or lower case.
+The user can now not only write ingredients but also categories to be avoided and filtered away in search.
+Now it's also possible to avoid recipes of a special diet. It's not more the idea to write a diet in the "avoid field" to get recipes of that diet.
+I had a reason for that but gave it up so it's more clear.
+Cook this recipe button decreases every ingredients amount of a chosen recipe by the amount the recipe needs for the selected servings if the recipe can be cooked.
+
+New class Allergene and the ingredients can be labeled with allergens which can be used in recipe searching as well.
+In class Recipe methods canBeCooked and showRecipe updated so that they consider possible subrecipes (Ingredient not in store -> has an own recipe -> use that recipe if possible).
+Class CookBook's method search is updated and the user can now search with ingredients and recipe names.
+Updated class CookBook and the user interface. The user can now create and add recipes to the recipe book. The user can also edit recipes and delete them.
+RecipeReader's method readFile was unnecessary so it's been removed.
+The user can add densities.
+Added method writeToFile in object RecipeReader. The changes made by the user are now saved and stored in text files.
+The user can choose between a wide search and an accurate search. Updated classes CookBook and UI. Also added new tests.
+
+
+Problems:
+1 egg and 2 eggs creates two different ingredients named "egg" and "eggs" but they should be the same. Problem with plurals.
